@@ -42,7 +42,8 @@ Zwanski-AMSI is intended for authorized use only. Ensure you have explicit permi
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/zwanski-amsi.git
+   git clone https://github.com/zwanski2019/zwanski-AMSI.git
+
     cd zwanski-amsi
     ```
 
