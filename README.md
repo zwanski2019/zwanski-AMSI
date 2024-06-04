@@ -1,6 +1,7 @@
 # Zwanski-AMSI
 
 ![Zwanski-AMSI](https://via.placeholder.com/800x200?text=Zwanski-AMSI)
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json">
 
 Zwanski-AMSI is an advanced security tool designed to integrate with the Windows Antimalware Scan Interface (AMSI) for detecting malicious content in files. This tool is particularly useful for security researchers, ethical hackers, and system administrators who need to perform thorough security assessments and scans within their environments.
 
